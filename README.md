@@ -32,4 +32,4 @@
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
 <a href="https://www.linkedin.com/in/daniel-leiteee/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rishav-chanda-b89a791b3"  /></a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E92C4&height=120&section=footer"/>
