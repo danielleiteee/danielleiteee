@@ -15,7 +15,7 @@
 <br/>
 
 <h3 align="left">Languages and Tools: 💻</h3>
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <a><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
     <a><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
     <a><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
