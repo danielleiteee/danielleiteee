@@ -6,6 +6,20 @@
 
 <br/>
 
+<hr/>
+
+<br/>
+
+<h3 align="left">About me:   👨‍💼 </h3>
+
+- :books: &nbsp; <strong>I'm a passionate software developer and gamer, working for improvements in coding skills.</strong>
+- 🎓 &nbsp; <strong>Studied "Análise e Desenvolvimento de Sistemas" at Fatec - São Paulo, Brazil</strong>
+- :computer: &nbsp; <strong>I'm currently studying Python, focusing on Data Analysis, Pandas and PowerBI
+  </strong>
+
+<br/>
+<br/>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielleiteee&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Leite github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielleiteee&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
