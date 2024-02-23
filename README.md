@@ -6,11 +6,11 @@
 
 <br/>
 
-<hr/>
+<hr>
 
 <br/>
 
-<h3 align="left">About me:   👨‍💼 </h3>
+<h3 align="left">About me: 👨‍💼</h3>
 
 - :books: &nbsp; <strong>A passionate software developer and gamer, working for improvements in coding skills.</strong>
 - 🎓 &nbsp; <strong>Studied "Análise e Desenvolvimento de Sistemas" at Fatec - São Paulo, Brazil</strong>
